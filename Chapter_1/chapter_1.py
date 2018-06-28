@@ -1,7 +1,7 @@
 # Migrating from Python 2 to Python 3 
 # Examples of Chapter 1
 
-# THe next code gets an error in Python 2
+# The next code gets an error in Python 2
 # (If you try with the GUI, this error was fixed at the lastest versions)
 
 print 'Spain in Spanish is written España'
